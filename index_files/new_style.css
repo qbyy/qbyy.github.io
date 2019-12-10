@@ -1,0 +1,21 @@
+.ContentLeftCol {
+    width: 15.7%;
+    padding: 0 0 0 0px;
+    float: left;
+}
+
+.ContentCenterCol {
+    margin: 0;
+    width: 70%;
+    float: left;
+}
+
+.ContentRightCol {
+    width: 13.8%;
+    padding: 0 0px 0 0px;
+    float: right;
+}
+
+/*.searchCont input{
+	    float: left;
+}*/

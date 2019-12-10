@@ -1,0 +1,18 @@
+#panel,
+#header,
+#header_logo,
+#header_text,
+#header_menu,
+#header_sites,
+#zebra,
+#navigation,
+#bottom_banner,
+#horizontal-multilevel-menu,
+.left-column,
+.right-column
+{
+   display: none;
+}
+#footer {text-align:left;margin-left:20px;background-color:white;}
+#footer a {color:#333;}
+#print_link_back {display:block;text-align:right;margin-right:20px;}
